@@ -1,0 +1,27 @@
+/* .dropdown-toolbar {
+  height: calc(100vh - 3.75rem);
+} */
+
+.dropdown-toolbar .list-group {
+  overflow-y: auto;
+}
+
+.list-group-flush{
+  max-height: 300px;
+}
+
+.media-object{
+  margin-right: 15px;
+}
+
+.read-more {
+  outline: none;
+    border: 0px;
+    background: none;
+    cursor: pointer;
+}
+
+p { 
+  height: 1; 
+  overflow: hidden; 
+}
